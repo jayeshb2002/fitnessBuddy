@@ -2,7 +2,7 @@
   "name": "typescript-proj",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://jayeshb2002.github.io/typescript-proj"
+  "homepage":"https://jayeshb2002.github.io/typescript-proj",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
