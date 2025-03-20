@@ -2,7 +2,7 @@
   "name": "typescript-proj",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://github.com/jayeshb2002/fitnessBuddy.git",
+  "homepage":"https://jayeshb2002.github.io/fitnessBuddy/",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
